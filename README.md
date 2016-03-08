@@ -3,8 +3,13 @@ T411 Torrent Watcher by Junraa
 
 Welcome on the T411 Torrent Watcher project.
 
-It should be simple to use. Everything is written
-in search.py at the moment.
+It should be simple to use. The generic part is written
+in search.py at the moment. I personally use it in a cron task.
+
+The thing is that while many torrent watchers, like Sonarr, are good for searching
+torrents on most of the international torrent trackers, T411 is poorly covered by
+these solutions. Note that this is not a perfect solution, this is something I wanted
+to try on my free time.
 
 
 Configuration
