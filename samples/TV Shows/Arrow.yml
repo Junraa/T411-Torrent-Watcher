@@ -1,0 +1,16 @@
+name: Arrow
+query: Arrow
+seasons:
+- current: 24
+  id: 1
+  max: 23
+- current: 24
+  id: 2
+  max: 23
+- current: 24
+  id: 3
+  max: 23
+terms:
+  language: VOSTFR Multi
+  quality: 720 1080
+  type: 2D

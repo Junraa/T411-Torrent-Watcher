@@ -1,0 +1,13 @@
+name: Marvel Agents
+query: Marvel Agents
+seasons:
+- current: 23
+  id: 1
+  max: 22
+- current: 23
+  id: 2
+  max: 22
+terms:
+  language: VOSTFR Multi
+  quality: 720 1080
+  type: 2D

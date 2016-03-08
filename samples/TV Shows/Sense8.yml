@@ -1,0 +1,10 @@
+name: Sense8
+query: Sense8
+seasons:
+- current: 13
+  id: 1
+  max: 12
+terms:
+  language: VOSTFR Multi
+  quality: 720 1080
+  type: 2D

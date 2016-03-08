@@ -1,0 +1,10 @@
+name: Mr Robot
+query: Mr Robot
+seasons:
+- current: 11
+  id: 1
+  max: 10
+terms:
+  language: VOSTFR Multi
+  quality: 720 1080
+  type: 2D
